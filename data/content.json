@@ -1,0 +1,48 @@
+{
+    "product": {
+        "price": 120,
+        "fr": {
+            "title": "Coffret « Main de Fatma » — Assortiment de 12 pièces",
+            "ref": "Référence : TF-BOX-001",
+            "desc": "Découvrez un coffret artisanal inspiré de l’art marocain : 12 pièces de chocolat fin en forme de la main de Fatma, fourrées aux amandes, pistaches, caramel et ganache fruitée. Idéal comme cadeau pour les occasions spéciales.",
+            "w": "Poids : 250 g",
+            "f": "Format : 12 pièces",
+            "s": "Conservation : 10 jours",
+            "p": "Emballage : Cadeau"
+        },
+        "ar": {
+            "title": "علبة « يد فاطمة » — تشكيلة 12 قطعة",
+            "ref": "المرجع: TF-BOX-001",
+            "desc": "اكتشف علبة مستوحاة من الفن المغربي: 12 قطعة شوكولاتة فاخرة على شكل يد فاطمة، محشوة باللوز والفستق والكراميل والغاناش بالفواكه. مثالية كهدية للمناسبات الخاصة.",
+            "w": "الوزن: 250 غ",
+            "f": "الكمية: 12 قطعة",
+            "s": "مدة الصلاحية: 10 أيام",
+            "p": "التغليف: هدية"
+        }
+    },
+    "contact": {
+        "phone": "+212 6X XXX XXXX",
+        "phone_raw": "2126",
+        "email": "contact@toufayour.ma",
+        "fr": {
+            "intro": "Livraison dans les villes principales du Maroc. Contactez-nous pour confirmer la disponibilité dans votre ville.",
+            "address": "Marrakech, Maroc"
+        },
+        "ar": {
+            "intro": "التوصيل للمدن الرئيسية في المغرب. تواصل معنا للتأكد من التوفر في مدينتك.",
+            "address": "تمارة، المغرب"
+        }
+    },
+    "about": {
+        "fr": "Toufayour Chocolate est une maison artisanale marocaine. Nous sublimons les ingrédients nobles (amandes, pistaches, miel) dans des créations inspirées de l’art marocain. Chaque coffret est façonné avec soin pour offrir un cadeau authentique.",
+        "ar": "توفايور شوكولات علامة مغربية حرفية. نمزج المكونات الراقية (لوز، فستق، عسل) في ابتكارات مستوحاة من الفن المغربي. كل علبة تُحضّر بعناية لتكون هدية أصيلة."
+    },
+    "header": {
+        "fr": {
+            "slogan": "Artisanat marocain de qualité — Propriétaire : Ghizlane"
+        },
+        "ar": {
+            "slogan": "صناعة مغربية بجودة عالية — المالكة: غزلان"
+        }
+    }
+}
