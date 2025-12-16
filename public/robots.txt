@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://toufayour.vercel.app/sitemap.xml
